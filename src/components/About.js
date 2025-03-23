@@ -24,12 +24,12 @@ export default function About() {
                     <a href="https://www.linkedin.com/in/saima-parween-737282226/">
                         <img
                             alt="Linkedin: @saima"
-                            src="https://img.shields.io/badge/-AnkitKumarSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-kumar-singh-952736205"
+                            src="https://img.shields.io/badge/SaimaParween-blue?color=blue"
                         />
                     </a>
                     <a href="mailto:saimaparween281@gmail.com">
                         <img
-                            src="https://img.shields.io/badge/Gmail-@ankitkrsingh-red"
+                            src="https://img.shields.io/badge/Gmail-%40saima-red?color=red"
                             alt="Gmail: @saima"
                         />
                     </a>

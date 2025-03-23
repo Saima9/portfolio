@@ -14,7 +14,7 @@ export default function Home() {
                         Saima Parween
                     </h1>
                     <p className="home-description">
-                        Full Stack Developer | Machine Learning Enthusiast
+                        Full Stack Developer
                     </p>
                 </article>
             </div>
